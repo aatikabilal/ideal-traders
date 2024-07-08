@@ -1,0 +1,46 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    height: 100px;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+.navbar{
+    list-style-type: none;
+}
+.register{
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    flex-direction: column;
+    align-items: center;
+    column-gap: 20px;
+    gap: 10px;
+}
+.gender{
+    display: flex;
+}
+.submit{
+    background-color: orange;
+    padding: 10px 70px;
+    border: 2px solid black;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.submit:hover{
+    background-color: blueviolet;
+}
+{
+    margin; 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial; 
+    
+}
